@@ -1,118 +1,103 @@
-# Divyashree H — Portfolio Website
+# 👋 Hi, I'm Divyashree H
 
-A modern, responsive portfolio website showcasing my experience as a Full-Stack Engineer at SAP Labs.
+**Full-Stack Engineer @ SAP Labs | M.Tech @ RVCE Bengaluru**
 
-![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-## ✨ Features
-
-- **Dark Theme** with lime/neon accent color (#c8ff00)
-- **Grid-dot Background** on hero section
-- **Scroll Reveal Animations** using Intersection Observer
-- **Active Navigation Highlighting** on scroll
-- **Responsive Design** — works on all devices
-- **No Build Step Required** — pure HTML, CSS, and JavaScript
-
-## 🚀 Run Locally
-
-Simply open `index.html` in your browser — no build step or server needed!
-
-```bash
-# Option 1: Double-click index.html
-
-# Option 2: Use a local server (recommended for development)
-npx serve .
-
-# Option 3: Use Python's built-in server
-python -m http.server 8000
-
-# Option 4: Use VS Code Live Server extension
-# Right-click index.html → "Open with Live Server"
-```
-
-## 📁 Project Structure
-
-```
-portfolio/
-├── index.html          # Main HTML file with all sections
-├── style.css           # Styles with CSS variables & dark theme
-├── script.js           # Scroll animations & interactivity
-├── README.md           # This file
-├── SKILL.md            # Portfolio generation guidelines
-└── Divyashree_H_*.pdf  # Resume PDF
-```
-
-## 🌐 Deploy
-
-### GitHub Pages
-
-1. Push this repository to GitHub
-2. Go to **Settings** → **Pages**
-3. Under "Source", select **main** branch and **/ (root)** folder
-4. Click **Save**
-5. Your site will be live at `https://yourusername.github.io/repository-name`
-
-### Vercel
-
-1. Go to [vercel.com](https://vercel.com)
-2. Click **Add New** → **Project**
-3. Import your GitHub repository (or drag & drop the folder)
-4. Click **Deploy**
-5. Your site will be live instantly with a `.vercel.app` URL
-
-### Netlify
-
-1. Go to [netlify.com](https://netlify.com)
-2. Drag and drop the project folder onto the deploy area
-3. Your site will be live instantly with a `.netlify.app` URL
-
-### Cloudflare Pages
-
-1. Go to [pages.cloudflare.com](https://pages.cloudflare.com)
-2. Connect your GitHub repository
-3. Set build command to empty (no build needed)
-4. Set output directory to `/`
-5. Deploy!
-
-## 🎨 Customization
-
-### Change Accent Color
-
-Edit the CSS variables in `style.css`:
-
-```css
-:root {
-  --accent: #c8ff00;           /* Main accent color */
-  --accent-dim: rgba(200, 255, 0, 0.15);
-  --accent-glow: rgba(200, 255, 0, 0.4);
-}
-```
-
-### Change Fonts
-
-Update the Google Fonts import in `index.html` and the font variables in `style.css`:
-
-```css
-:root {
-  --font-display: 'Syne', sans-serif;
-  --font-body: 'DM Sans', sans-serif;
-  --font-mono: 'Space Mono', monospace;
-}
-```
-
-## 📱 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
-- Edge (latest)
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+I'm a passionate software engineer who loves building scalable enterprise applications. Currently working at SAP Labs, where I develop full-stack features using SAP UI5, CAP, and Node.js, while integrating AI-powered capabilities on SAP BTP.
 
 ---
 
-**Built with ❤️ by Divyashree H**
+## 🚀 About Me
 
-📧 [shreedivya1920@gmail.com](mailto:shreedivya1920@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/divyashreeh15) | 🐙 [GitHub](https://github.com/divyashreeh15)
+- 🔭 Currently working as a **Software Engineer Intern at SAP Labs, Bengaluru**
+- 🎓 Pursuing **M.Tech at R V College of Engineering** (GPA: 9.0)
+- 💻 I specialize in **Full-Stack Development** with expertise in both enterprise and modern web technologies
+- 🌱 Currently exploring **AI/ML integration** in enterprise applications
+- 📍 Based in **Bengaluru, India**
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend:**
+- Java, Spring Boot, Microservices, REST APIs
+- CAP (Cloud Application Programming), Node.js
+- PostgreSQL, SQL
+
+**Frontend:**
+- React JS, SAP UI5, Fiori Elements
+- HTML5, CSS3, JavaScript
+
+**Cloud & DevOps:**
+- AWS (EC2, S3, RDS), SAP BTP, Cloud Foundry
+- Docker, Kubernetes, Terraform
+- Git, GitHub Actions, CI/CD
+
+---
+
+## 💼 Experience
+
+### Software Engineer Intern | SAP Labs
+*Sept 2025 – Present*
+- Building full-stack features for BBC Kodiak using SAP UI5 and CAP-based Node.js services
+- Integrating SAP AI Core services for AI-driven capabilities
+- Deploying applications on SAP BTP with Work Zone integration
+
+### Trainee Java Developer | Gowri Software Solutions
+*Nov 2024 – Apr 2025*
+- Developed RESTful APIs using Spring Boot and PostgreSQL
+- Built responsive React.js UI components
+- Implemented role-based access control with Spring Security
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | GPA | Year |
+|--------|-------------|-----|------|
+| M.Tech | R V College of Engineering | 9.0 | 2024-2026 |
+| B.E. | SJB Institute of Technology | 8.5 | 2020-2024 |
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [shreedivya1920@gmail.com](mailto:shreedivya1920@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/divyashreeh15](https://linkedin.com/in/divyashreeh15)
+- 🐙 GitHub: [github.com/divyashreeh15](https://github.com/divyashreeh15)
+- 🌐 Portfolio: [divyashreeh15.github.io](https://divyashreeh15.github.io)
+
+---
+
+## 🌐 Portfolio Website
+
+This repository hosts my personal portfolio website featuring:
+
+- ✨ **Dark Theme** with lime/neon accent color
+- 🎨 **Modern Design** with grid-dot background
+- 🚀 **Smooth Animations** using CSS & JavaScript
+- 📱 **Fully Responsive** for all devices
+- 🔒 **Security Best Practices** implemented
+
+### Run Locally
+
+```bash
+# Simply open in browser
+open index.html
+
+# Or use a local server
+npx serve .
+```
+
+### Deploy
+
+The site is hosted on **GitHub Pages** at: [divyashreeh15.github.io](https://divyashreeh15.github.io)
+
+---
+
+## � GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyashreeh15&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=c8ff00&icon_color=c8ff00&text_color=f5f5f5)
+
+---
+
+*Built with ❤️ by Divyashree H*
